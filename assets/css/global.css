@@ -1,0 +1,9 @@
+:root {
+  --heading: "Poppins", sans-serif;
+  --heading-2: "Unbounded";
+  --body-font: "Poppins", sans-serif;
+  --body-color: #555555;
+  --base-color: #ff3838;
+  --title-color: #0e0e0e;
+  --body-bg-color: #171926;
+}
